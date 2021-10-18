@@ -1,0 +1,162 @@
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\obj\Debug\netcoreapp3.1\TodoAppJWT.csprojAssemblyReference.cache
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\obj\Debug\netcoreapp3.1\TodoAppJWT.MvcApplicationPartsAssemblyInfo.cache
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\obj\Debug\netcoreapp3.1\TodoAppJWT.AssemblyInfoInputs.cache
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\obj\Debug\netcoreapp3.1\TodoAppJWT.AssemblyInfo.cs
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\obj\Debug\netcoreapp3.1\TodoAppJWT.MvcApplicationPartsAssemblyInfo.cs
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\appsettings.json
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\TodoAppJWT.StaticWebAssets.xml
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\TodoAppJWT.exe
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\TodoAppJWT.deps.json
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\TodoAppJWT.runtimeconfig.json
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\TodoAppJWT.runtimeconfig.dev.json
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\TodoAppJWT.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\TodoAppJWT.pdb
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\obj\Debug\netcoreapp3.1\TodoAppJWT.RazorTargetAssemblyInfo.cache
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\obj\Debug\netcoreapp3.1\TodoAppJWT.csproj.CopyComplete
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\obj\Debug\netcoreapp3.1\staticwebassets\TodoAppJWT.StaticWebAssets.Manifest.cache
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\obj\Debug\netcoreapp3.1\staticwebassets\TodoAppJWT.StaticWebAssets.xml
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\obj\Debug\netcoreapp3.1\TodoAppJWT.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\obj\Debug\netcoreapp3.1\TodoAppJWT.pdb
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 10 JWT\TodoAppJWT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\appsettings.json
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\TodoAppJWT.StaticWebAssets.xml
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\TodoAppJWT.exe
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\TodoAppJWT.deps.json
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\TodoAppJWT.runtimeconfig.json
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\TodoAppJWT.runtimeconfig.dev.json
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\TodoAppJWT.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\TodoAppJWT.pdb
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\obj\Debug\netcoreapp3.1\TodoAppJWT.csprojAssemblyReference.cache
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\obj\Debug\netcoreapp3.1\TodoAppJWT.MvcApplicationPartsAssemblyInfo.cs
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\obj\Debug\netcoreapp3.1\TodoAppJWT.MvcApplicationPartsAssemblyInfo.cache
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\obj\Debug\netcoreapp3.1\TodoAppJWT.AssemblyInfoInputs.cache
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\obj\Debug\netcoreapp3.1\TodoAppJWT.AssemblyInfo.cs
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\obj\Debug\netcoreapp3.1\TodoAppJWT.RazorTargetAssemblyInfo.cache
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\obj\Debug\netcoreapp3.1\TodoAppJWT.csproj.CopyComplete
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\obj\Debug\netcoreapp3.1\staticwebassets\TodoAppJWT.StaticWebAssets.Manifest.cache
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\obj\Debug\netcoreapp3.1\staticwebassets\TodoAppJWT.StaticWebAssets.xml
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\obj\Debug\netcoreapp3.1\TodoAppJWT.dll
+D:\TH 2021\MICH 2021\LAIN-LAIN\Golek Kerjo\OCBC\Bootcamp\Materi\Sesi 11\TodoAppJWT\obj\Debug\netcoreapp3.1\TodoAppJWT.pdb
